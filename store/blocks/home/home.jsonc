@@ -51,7 +51,7 @@
     }
   },
   "flex-layout.row#shelf": {
-    "children": ["city-selector"]
+    "children": ["city-selector-custom"]
   },
   "list-context.product-list#demo1": {
     "blocks": ["product-summary.shelf"],
