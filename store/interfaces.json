@@ -1,0 +1,6 @@
+{
+    "hola-mundo": {
+        "component": "Saludo",
+        "render": "client"
+    }
+}

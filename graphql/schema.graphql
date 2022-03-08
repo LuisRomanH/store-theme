@@ -1,0 +1,8 @@
+type States {
+  id: ID!
+  state: String!
+}
+
+type Query {
+  citySelector: [States]! @cacheControl(scope: PUBLIC)
+}
