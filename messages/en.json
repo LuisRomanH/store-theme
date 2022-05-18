@@ -1,0 +1,8 @@
+{
+  "store/form.text.success": "Succesfully submitted the data!",
+  "store/form.input.name": "Full Name",
+  "store/form.input.email": "Email",
+  "store/form.input.phone": "Cellphone",
+  "store/form.input.message": "Message",
+  "store/form.input.submit": "Submit"
+}

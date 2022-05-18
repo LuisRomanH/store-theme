@@ -1,0 +1,8 @@
+{
+  "store/form.text.success": "store/form.text.success",
+  "store/form.input.name": "store/form.input.name",
+  "store/form.input.email": "store/form.input.email",
+  "store/form.input.phone": "store/form.input.phone",
+  "store/form.input.message": "store/form.input.message",
+  "store/form.input.submit": "store/form.input.submit"
+}
